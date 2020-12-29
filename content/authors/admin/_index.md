@@ -70,8 +70,10 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently studying for a master's degree in computer science applied to business management at the University of Lille. I am a fan of new technologies and business management.
+I already got my bachelor's degree from the same university last year. To allow me to concretize my training, I am looking for an internship and a work-study program for my second year of master.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before arriving in France, I was doing a degree in computer engineering at the University of Gamal Abdel Nasser in Conakry.
+Since my young age I have been attracted to IT and I also have a real desire for starting a business
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
