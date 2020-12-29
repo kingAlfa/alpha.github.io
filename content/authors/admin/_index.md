@@ -14,26 +14,26 @@ organizations:
   url: https://www.univ-lille.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My goal is be the most polyvalent in database administration and business management
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Base
+- It Security
+- Business Management
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in IT method applied to business management
+    institution: University of Lille
+    year: In Progress
+  - course: BSc in Computer Science
+    institution: University of Lille
+    year: 2019
+  - course: BSc Computer Engineering
+    institution: University of Gamal Abdel Nasser de Conakry
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
